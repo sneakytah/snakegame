@@ -1,4 +1,4 @@
-import { Score } from '../Score.js';
+import { Score } from '../score.js';
 
 export class ScoreboardController {
     #score;
